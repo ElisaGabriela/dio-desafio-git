@@ -1,2 +1,2 @@
-# dio-desafio-git
-Desafio de projeto sobre git/github do bootcamp da DIO
+# Repositório do Primeiro desafio sobre Git/GitHub da DIO
+
